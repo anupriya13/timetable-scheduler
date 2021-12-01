@@ -81,20 +81,3 @@ yarn start
 The link for the application will appear in the frontend terminal.
 
 For the next time, you have to follow steps 2 & 4 only.
-
-## 👨🏻‍💻 Contributing
-
-Make sure you read the [contributing guidelines](contributing.md) before opening a PR.
-
-## 📧Contact Us
-
-In case of any query regarding the project installation, feel free to contact:
-
-- 🧑 [Ehmad Saeed](https://twitter.com/justEhmadSaeed)
-- 👩 [Mehrunnisa](mailto:mehrunnisa533@gmail.com)
-
-## 🔑 License & Conduct
-
-- It is © [MIT Licensed](LICENSE)
-- [Code of Conduct](CODE_OF_CONDUCT.md)
-# timetable-scheduler
